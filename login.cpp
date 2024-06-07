@@ -80,7 +80,7 @@ class Login:public registration{
 };
   
 int main() {
-    /*cout<<"WELCOME_TO_THE_REGISTRATION_LOGIN_FORM\n";
+    cout<<"WELCOME_TO_THE_REGISTRATION_LOGIN_FORM\n";
 
     cout<<"REGISTER\n";
     registration r1;
